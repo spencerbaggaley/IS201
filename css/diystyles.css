@@ -1,0 +1,30 @@
+﻿body {
+    font-family: Arial, Verdana, sans-serif;
+    font-size: 18px;
+    color: white;
+    background-color: #144273;
+}
+li {
+    font-size: 16px;
+    font-style: normal;
+    font-weight: normal;
+}
+a {
+    color: white;
+    text-decoration: none;
+}
+a:hover {
+    text-decoration: underline;
+}
+a:visited {
+    color: ivory;
+}
+h2 {
+    font-weight: bold;
+    font-size: 24px;
+}
+.resumeListHeading {
+    font-weight: bold;
+    font-style: normal;
+}
+.footerColor {color: black;}

@@ -1,0 +1,32 @@
+﻿.common {
+	border: 2px solid white;
+	position: absolute;
+}
+.header {
+	top: 5px;
+	left: 5px;
+	right: 5px;
+	height: 50px;
+}
+.mainbody {
+	border: none;
+	top: 64px;
+	left: 5px;
+	right: 5px;
+	bottom: 139px;
+	padding-right: 5px;
+	padding-bottom: 50px;
+}
+.footer {
+	background-color: white;
+	border-top: solid 1px black;
+	left: 0px;
+	right: 0px;
+	bottom: 0px;
+	height: 15px;
+	font-size: 10px;
+	color: #999999;
+	text-align: center;
+	padding-top: 5px;
+	position: fixed;
+}
